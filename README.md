@@ -1,0 +1,1 @@
+# blockchain-my-manifesto
