@@ -48,6 +48,10 @@ I think, it's clear from the name.
 
 I think, it's clear from the name.
 
-## 19. [NFT project 'of your choice'](https://github.com/artem-bayandin)
+## 19. [Tamagochi](https://github.com/artem-bayandin)
+
+NFT-based game. ERC721 for a player, ERC1155 for assets, ERC20 for a game contract. Possibe to have an ability to extend 'main' game contract with other 'side' contracts. Everybody knows what Tamagochi is - I will code it one day.
+
+## 99. [NFT project 'of your choice'](https://github.com/artem-bayandin)
 
 The community will vote for the next project to be build.
