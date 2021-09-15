@@ -2,6 +2,8 @@
 
 My name is Artem and I'm building an NFT universe. This will contain a list of projects, initially not related, but acquiring such relations after being released. Below you may find the list with minor description. There will be more description, more links, and more details about each project after one being released. The main purpose of current document is to highlight the list of my personal pet projects in blockchain domain, so that my business partners has less complains about 'stealing' code in the future.
 
+*<sub>Links might not open, as repos might be private and/or not yet exist. I will do my best to create repos and add descriptions asap. But this does not mean, that repos will be public.</sub>*
+
 # Prologue
 
 Before we go the list of projects, let me introduce you some 'utils' projects I'm working on.
