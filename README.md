@@ -50,7 +50,7 @@ I think, it's clear from the name.
 
 NFT-based Browser RPG. ERC721 for players, ERC1155 for assets, smart contract as a game contract.
 
-## 18. [Staking machine](https://github.com/artem-bayandin/blockchain-universe)
+## 18. [Staking machine](https://github.com/artem-bayandin/blockchain-satisfactor)
 
 I think, it's clear from the name.
 
