@@ -16,7 +16,7 @@ This is my playground, where I test and collect different interesting strategies
 
 This project contains different helpers that might be useful across projects. For example, it may contain permission managers, iterable mappings, and so on.
 
-## 03. [blockchain-samples](https://github.com/artem-bayandin/blockchain-universe)
+## 03. [blockchain-samples](https://github.com/artem-bayandin/blockchain-samples)
 
 Some commonly used samples of contracts, like 'multi-sig wallet', 'staking', and/or usage of 'iterable mapping', 'role manager' from the repo above.
 
@@ -48,7 +48,7 @@ I think, it's clear from the name.
 
 ## 17. [NFT Browser PRG](https://github.com/artem-bayandin/blockchain-universe)
 
-I think, it's clear from the name.
+NFT-based Browser RPG. ERC721 for players, ERC1155 for assets, smart contract as a game contract.
 
 ## 18. [Staking machine](https://github.com/artem-bayandin/blockchain-universe)
 
@@ -56,7 +56,7 @@ I think, it's clear from the name.
 
 ## 19. [Tamagochi](https://github.com/artem-bayandin/blockchain-universe)
 
-NFT-based game. ERC721 for a player, ERC1155 for assets, ERC20 for a game contract. Possibe to have an ability to extend 'main' game contract with other 'side' contracts. Everybody knows what Tamagochi is - I will code it one day.
+NFT-based game. ERC721 for players, ERC1155 for assets, smart contract as a game contract. Possibe to have an ability to extend 'main' game contract with other 'side' contracts. Everybody knows what Tamagochi is - I will code it one day.
 
 ## 99. [NFT project 'of your choice'](https://github.com/artem-bayandin/blockchain-universe)
 
