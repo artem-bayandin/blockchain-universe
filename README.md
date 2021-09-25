@@ -20,6 +20,8 @@ This project contains different helpers that might be useful across projects. Fo
 
 Some commonly used samples of contracts, like 'multi-sig wallet', 'staking', and/or usage of 'iterable mapping', 'role manager' from the repo above.
 
+- **03.1. [Raffle](https://github.com/artem-bayandin/blockchain-samples/tree/master/raffle) game example.** A lottery game, transfers [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) tokens back and forth, collects payable fees and sends ETH to players, uses custom interfaces for price oracle and randomness oracle, includes implementation of both oracles via Chainlink [data feed](https://docs.chain.link/docs/get-the-latest-price/) and [vrfConsumer](https://docs.chain.link/docs/get-a-random-number/).
+
 # Projects
 
 ## 11. [NFT Collectible #1](https://github.com/artem-bayandin/blockchain-universe)
